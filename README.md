@@ -18,3 +18,17 @@ El programa permite al usuario ingresar un texto, el cual será analizado utiliz
 
 Pueden instalarla asi:
 `pip install nltk`
+
+
+Instrucciones para usar
+**Descargar el código**: Clona o descarga este repositorio en tu máquina local.
+
+**Ejecutar el programa**:
+
+Abre la terminal o un entorno de desarrollo como Visual Studio Code o Jupyter Notebook.
+Ejecuta el script Python:
+
+`python analisis_sentimientos.py`
+**Escribir el texto**: El programa pedirá que ingreses un texto en la consola. Escribe cualquier texto que desees analizar y presiona Enter.
+
+**Ver los resultados**: El programa te devolverá las puntuaciones de sentimiento
