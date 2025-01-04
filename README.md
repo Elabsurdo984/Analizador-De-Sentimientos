@@ -14,5 +14,7 @@ El programa permite al usuario ingresar un texto, el cual será analizado utiliz
 * Python 3
 * Las siguientes Librerias:
     * nltk
+  
+
 Pueden instalarla asi:
-´pip install nltk´
+`pip install nltk`
