@@ -9,3 +9,10 @@ El programa permite al usuario ingresar un texto, el cual será analizado utiliz
 * **Neutral**: Muestra la intensidad del sentimiento neutral (rango de 0 a 1).
 * **Positivo**: Muestra la intensidad del sentimiento positivo (rango de 0 a 1).
 * **Puntuación Compuesta**: Muestra la puntuación global del sentimiento, que es una combinación de las tres puntuaciones anteriores, con un rango entre -1 (muy negativo) y 1 (muy positivo).
+
+## Requisitos:
+* Python 3
+* Las siguientes Librerias:
+    * nltk
+Pueden instalarla asi:
+´pip install nltk´
